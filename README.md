@@ -1,2 +1,2 @@
-# Malmoi
-rpg unity project(collection, puzzle, runner)
+# Rhythm
+rhythm game made with unity
