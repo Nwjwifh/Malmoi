@@ -1,2 +1,2 @@
-# Rhythm
-rhythm game made with unity
+# Malmoi
+rpg project
